@@ -1,2 +1,2 @@
 # Translation-X
-A sSmple Language Translator Appliction.
+A Simple Language Translator Appliction.
